@@ -1,0 +1,437 @@
+[
+  {
+    "species": "Homo sapiens",
+    "gff_version": "GCF_000001405.40",
+    "wgs_version": "GCF_000001405.39"
+  },
+  {
+    "species": "Pan paniscus",
+    "gff_version": "GCF_013052645.1",
+    "wgs_version": "GCF_013052645.1"
+  },
+  {
+    "species": "Pan troglodytes",
+    "gff_version": "GCF_002880755.1",
+    "wgs_version": "GCF_002880755.1"
+  },
+  {
+    "species": "Mus musculus",
+    "gff_version": "GCF_000001635.27",
+    "wgs_version": "GCF_000001635.27"
+  },
+  {
+    "species": "Oryctolagus cuniculus",
+    "gff_version": "GCF_009806435.1",
+    "wgs_version": "GCF_009806435.1"
+  },
+  {
+    "species": "Tupaia chinensis",
+    "gff_version": "GCF_000334495.1",
+    "wgs_version": "GCF_000334495.1"
+  },
+  {
+    "species": "Galeopterus variegatus",
+    "gff_version": "GCF_000696425.1",
+    "wgs_version": "GCF_000696425.1"
+  },
+  {
+    "species": "Suncus etruscus",
+    "gff_version": "GCF_024139225.1",
+    "wgs_version": "GCF_024139225.1"
+  },
+  {
+    "species": "Manis pentadactyla",
+    "gff_version": "GCF_014570555.1",
+    "wgs_version": "GCF_014570555.1"
+  },
+  {
+    "species": "Rhinolophus ferrumequinum",
+    "gff_version": "GCF_004115265.2",
+    "wgs_version": "GCF_004115265.2"
+  },
+  {
+    "species": "Panthera uncia",
+    "gff_version": "GCF_023721935.1",
+    "wgs_version": "GCF_023721935.1"
+  },
+  {
+    "species": "Equus quagga",
+    "gff_version": "GCF_021613505.1",
+    "wgs_version": "GCF_021613505.1"
+  },
+  {
+    "species": "Orcinus orca",
+    "gff_version": "GCF_937001465.1",
+    "wgs_version": "GCF_937001465.1"
+  },
+  {
+    "species": "Bos taurus",
+    "gff_version": "GCF_002263795.2",
+    "wgs_version": "GCF_002263795.2"
+  },
+  {
+    "species": "Ovis aries",
+    "gff_version": "GCF_016772045.1",
+    "wgs_version": "GCF_016772045.1"
+  },
+  {
+    "species": "Sus scrofa",
+    "gff_version": "GCF_000003025.6",
+    "wgs_version": "GCF_000003025.6"
+  },
+  {
+    "species": "Choloepus didactylus",
+    "gff_version": "GCF_015220235.1",
+    "wgs_version": "GCF_015220235.1"
+  },
+  {
+    "species": "Dasypus novemcinctus",
+    "gff_version": "GCF_000208655.3",
+    "wgs_version": "GCF_000208655.3"
+  },
+  {
+    "species": "Elephantulus edwardii",
+    "gff_version": "GCF_000299155.1",
+    "wgs_version": "GCF_000299155.1"
+  },
+  {
+    "species": "Orycteropus afer afer",
+    "gff_version": "GCF_000298275.1",
+    "wgs_version": "GCF_000298275.1"
+  },
+  {
+    "species": "Elephas maximus indicus",
+    "gff_version": "GCF_024166365.1",
+    "wgs_version": "GCF_024166365.1"
+  },
+  {
+    "species": "Trichechus manatus latirostris",
+    "gff_version": "GCF_000243295.1",
+    "wgs_version": "GCF_000243295.1"
+  },
+  {
+    "species": "Gracilinanus agilis",
+    "gff_version": "GCF_016433145.1",
+    "wgs_version": "GCF_016433145.1"
+  },
+  {
+    "species": "Dromiciops gliroides",
+    "gff_version": "GCF_019393635.1",
+    "wgs_version": "GCF_019393635.1"
+  },
+  {
+    "species": "Phascolarctos cinereus",
+    "gff_version": "GCF_002099425.1",
+    "wgs_version": "GCF_002099425.1"
+  },
+  {
+    "species": "Trichosurus vulpecula",
+    "gff_version": "GCF_011100635.1",
+    "wgs_version": "GCF_011100635.1"
+  },
+  {
+    "species": "Vombatus ursinus",
+    "gff_version": "GCF_900497805.2",
+    "wgs_version": "GCF_900497805.2"
+  },
+  {
+    "species": "Ornithorhynchus anatinus",
+    "gff_version": "GCF_004115215.2",
+    "wgs_version": "GCF_004115215.2"
+  },
+  {
+    "species": "Tachyglossus aculeatus",
+    "gff_version": "GCF_015852505.1",
+    "wgs_version": "GCF_015852505.1"
+  },
+  {
+    "species": "Gekko japonicus",
+    "gff_version": "GCF_001447785.1",
+    "wgs_version": "GCF_001447785.1"
+  },
+  {
+    "species": "Crotalus tigris",
+    "gff_version": "GCF_016545835.1",
+    "wgs_version": "GCF_016545835.1"
+  },
+  {
+    "species": "Sceloporus undulatus",
+    "gff_version": "GCF_019175285.1",
+    "wgs_version": "GCF_019175285.1"
+  },
+  {
+    "species": "Varanus komodoensis",
+    "gff_version": "GCF_004798865.1",
+    "wgs_version": "GCF_004798865.1"
+  },
+  {
+    "species": "Pelodiscus sinensis",
+    "gff_version": "GCF_000230535.1",
+    "wgs_version": "GCF_000230535.1"
+  },
+  {
+    "species": "Dermochelys coriacea",
+    "gff_version": "GCF_009764565.3",
+    "wgs_version": "GCF_009764565.3"
+  },
+  {
+    "species": "Mauremys reevesii",
+    "gff_version": "GCF_016161935.1",
+    "wgs_version": "GCF_016161935.1"
+  },
+  {
+    "species": "Gopherus evgoodei",
+    "gff_version": "GCF_007399415.2",
+    "wgs_version": "GCF_007399415.2"
+  },
+  {
+    "species": "Crocodylus porosus",
+    "gff_version": "GCF_001723895.1",
+    "wgs_version": "GCF_001723895.1"
+  },
+  {
+    "species": "Alligator sinensis",
+    "gff_version": "GCF_000455745.1",
+    "wgs_version": "GCF_000455745.1"
+  },
+  {
+    "species": "Alligator mississippiensis",
+    "gff_version": "GCF_000281125.3",
+    "wgs_version": "GCF_000281125.3"
+  },
+  {
+    "species": "Gavialis gangeticus",
+    "gff_version": "GCF_001723915.1",
+    "wgs_version": "GCF_001723915.1"
+  },
+  {
+    "species": "Struthio camelus australis",
+    "gff_version": "GCF_000698965.1",
+    "wgs_version": "GCF_000698965.1"
+  },
+  {
+    "species": "Apteryx rowi",
+    "gff_version": "GCF_003343035.1",
+    "wgs_version": "GCF_003343035.1"
+  },
+  {
+    "species": "Dromaius novaehollandiae",
+    "gff_version": "GCF_003342905.1",
+    "wgs_version": "GCF_003342905.1"
+  },
+  {
+    "species": "Nothoprocta perdicaria",
+    "gff_version": "GCF_003342845.1",
+    "wgs_version": "GCF_003342845.1"
+  },
+  {
+    "species": "Tinamus guttatus",
+    "gff_version": "GCF_000705375.1",
+    "wgs_version": "GCF_000705375.1"
+  },
+  {
+    "species": "Anas platyrhynchos",
+    "gff_version": "GCF_015476345.1",
+    "wgs_version": "GCF_015476345.1"
+  },
+  {
+    "species": "Aythya fuligula",
+    "gff_version": "GCF_009819795.1",
+    "wgs_version": "GCF_009819795.1"
+  },
+  {
+    "species": "Anser cygnoides domesticus",
+    "gff_version": "GCF_002166845.1",
+    "wgs_version": "GCF_002166845.1"
+  },
+  {
+    "species": "Cygnus olor",
+    "gff_version": "GCF_009769625.2",
+    "wgs_version": "GCF_009769625.2"
+  },
+  {
+    "species": "Cygnus atratus",
+    "gff_version": "GCF_013377495.2",
+    "wgs_version": "GCF_013377495.2"
+  },
+  {
+    "species": "Oxyura jamaicensis",
+    "gff_version": "GCF_011077185.1",
+    "wgs_version": "GCF_011077185.1"
+  },
+  {
+    "species": "Gallus gallus",
+    "gff_version": "GCF_016700215.2",
+    "wgs_version": "GCF_016700215.2"
+  },
+  {
+    "species": "Lagopus leucura",
+    "gff_version": "GCF_019238085.1",
+    "wgs_version": "GCF_019238085.1"
+  },
+  {
+    "species": "Centrocercus urophasianus",
+    "gff_version": "GCF_019232065.1",
+    "wgs_version": "GCF_019232065.1"
+  },
+  {
+    "species": "Phasianus colchicus",
+    "gff_version": "GCF_004143745.1",
+    "wgs_version": "GCF_004143745.1"
+  },
+  {
+    "species": "Coturnix japonica",
+    "gff_version": "GCF_001577835.2",
+    "wgs_version": "GCF_001577835.2"
+  },
+  {
+    "species": "Meleagris gallopavo",
+    "gff_version": "GCF_000146605.3",
+    "wgs_version": "GCF_000146605.3"
+  },
+  {
+    "species": "Numida meleagris",
+    "gff_version": "GCF_002078875.1",
+    "wgs_version": "GCF_002078875.1"
+  },
+  {
+    "species": "Antrostomus carolinensis",
+    "gff_version": "GCF_000700745.2",
+    "wgs_version": "GCF_000700745.2"
+  },
+  {
+    "species": "Calypte anna",
+    "gff_version": "GCF_003957555.1",
+    "wgs_version": "GCF_003957555.1"
+  },
+  {
+    "species": "Chaetura pelagica",
+    "gff_version": "GCF_000747805.2",
+    "wgs_version": "GCF_000747805.2"
+  },
+  {
+    "species": "Fulmarus glacialis",
+    "gff_version": "GCF_000690835.1",
+    "wgs_version": "GCF_000690835.1"
+  },
+  {
+    "species": "Aquila chrysaetos chrysaetos",
+    "gff_version": "GCF_900496995.4",
+    "wgs_version": "GCF_900496995.4"
+  },
+  {
+    "species": "Molothrus ater",
+    "gff_version": "GCF_012460135.1",
+    "wgs_version": "GCF_012460135.1"
+  },
+  {
+    "species": "Chiroxiphia lanceolata",
+    "gff_version": "GCF_009829145.1",
+    "wgs_version": "GCF_009829145.1"
+  },
+  {
+    "species": "Manacus vitellinus",
+    "gff_version": "GCF_001715985.3",
+    "wgs_version": "GCF_001715985.3"
+  },
+  {
+    "species": "Neopelma chrysocephalum",
+    "gff_version": "GCF_003984885.1",
+    "wgs_version": "GCF_003984885.1"
+  },
+  {
+    "species": "Taeniopygia guttata",
+    "gff_version": "GCF_003957565.2",
+    "wgs_version": "GCF_003957565.2"
+  },
+  {
+    "species": "Lonchura striata domestica",
+    "gff_version": "GCF_005870125.1",
+    "wgs_version": "GCF_005870125.1"
+  },
+  {
+    "species": "Parus major",
+    "gff_version": "GCF_001522545.3",
+    "wgs_version": "GCF_001522545.3"
+  },
+  {
+    "species": "Cyanistes caeruleus",
+    "gff_version": "GCF_002901205.1",
+    "wgs_version": "GCF_002901205.1"
+  },
+  {
+    "species": "Pseudopodoces humilis",
+    "gff_version": "GCF_000331425.1",
+    "wgs_version": "GCF_000331425.1"
+  },
+  {
+    "species": "Catharus ustulatus",
+    "gff_version": "GCF_009819885.2",
+    "wgs_version": "GCF_009819885.2"
+  },
+  {
+    "species": "Corvus moneduloides",
+    "gff_version": "GCF_009650955.1",
+    "wgs_version": "GCF_009650955.1"
+  },
+  {
+    "species": "Corvus cornix cornix",
+    "gff_version": "GCF_000738735.5",
+    "wgs_version": "GCF_000738735.5"
+  },
+  {
+    "species": "Corvus kubaryi",
+    "gff_version": "GCF_017639235.1",
+    "wgs_version": "GCF_017639235.1"
+  },
+  {
+    "species": "Corvus brachyrhynchos",
+    "gff_version": "GCF_000691975.1",
+    "wgs_version": "GCF_000691975.1"
+  },
+  {
+    "species": "Ficedula albicollis",
+    "gff_version": "GCF_000247815.1",
+    "wgs_version": "GCF_000247815.1"
+  },
+  {
+    "species": "Motacilla alba alba",
+    "gff_version": "GCF_015832195.1",
+    "wgs_version": "GCF_015832195.1"
+  },
+  {
+    "species": "Camarhynchus parvulus",
+    "gff_version": "GCF_901933205.1",
+    "wgs_version": "GCF_901933205.1"
+  },
+  {
+    "species": "Zonotrichia albicollis",
+    "gff_version": "GCF_000385455.1",
+    "wgs_version": "GCF_000385455.1"
+  },
+  {
+    "species": "Serinus canaria",
+    "gff_version": "GCF_022539315.1",
+    "wgs_version": "GCF_022539315.1"
+  },
+  {
+    "species": "Sturnus vulgaris",
+    "gff_version": "GCF_001447265.1",
+    "wgs_version": "GCF_001447265.1"
+  },
+  {
+    "species": "Acanthisitta chloris",
+    "gff_version": "GCF_000695815.1",
+    "wgs_version": "GCF_000695815.1"
+  },
+  {
+    "species": "Passer montanus",
+    "gff_version": "GCF_014805655.1",
+    "wgs_version": "GCF_014805655.1"
+  },
+  {
+    "species": "Strigops habroptila",
+    "gff_version": "GCF_004027225.2",
+    "wgs_version": "GCF_004027225.2"
+  }
+]
